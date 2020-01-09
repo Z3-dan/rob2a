@@ -1,0 +1,18 @@
+ANALOG 
+1 - Light Sensor
+2/3 - Shaft encoder
+4/5/6 - Line follower
+7/8 - Shaft encoder
+
+DIGITAL 
+1 - Gyro Sensor
+9 - Svort Prentplata
+10 - Button
+11 - Sensor input
+12 - Sensor Output
+
+MOTOR
+2 - Vinstri Motor
+3 - Haegri motor
+9 - Claw motor
+10 - Arm motor
