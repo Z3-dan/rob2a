@@ -1,15 +1,14 @@
-ANALOG 
-1 - Light Sensor
-2/3 - Shaft encoder
-4/5/6 - Line follower
-7/8 - Shaft encoder
-
 DIGITAL 
-1 - Potenti meter
-9 - Svort Prentplata
-10 - Button
-11 - Sensor input
-12 - Sensor Output
+1-3 Vinstri Encoder
+11 Sonar in
+12 Sonar out
+
+ANALOG
+1 Light Sensor
+4-5-6 Line Follower
+7 Gyro Sensor
+8 Potentometer
+
 
 MOTOR
 2 - Vinstri Motor
